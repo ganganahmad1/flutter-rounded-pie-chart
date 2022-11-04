@@ -1,0 +1,66 @@
+{
+  "data": {
+    "user_id": "5f6ecb7031f71df5867f8427",
+    "avg_score": 59.72222222222222,
+    "percentage_complete": 1.4382402707275803,
+    "answered_practices": 17,
+    "total_practices": 1182,
+    "course_data": [
+      {
+        "_id": "5ef04b0e8943d60d1605369d",
+        "name": "Melayu Islam Beraja",
+        "icon": "https://mindworkspace.sgp1.digitaloceanspaces.com/default/default/JnUgGSbKhBeiEgOaGn7rQiaDlgYhUY3E0mS2E2JHLbZOVP9Q21lnHoiAvy0lBDB8.png",
+        "background_image": "",
+        "background_color": "#5ccdf8",
+        "avg_score": 80,
+        "percentage_complete": 4.10958904109589,
+        "answered_practices": 3,
+        "total_practices": 73
+      },
+      {
+        "_id": "5ef054558943d60d160536b7",
+        "name": "Mathematics",
+        "icon": "https://mindworkspace.sgp1.digitaloceanspaces.com/default/default/HjwQDNHWS0QwHWyOuKSnmqyXExDFjJ8onSZ7rWLzqQcriEJCS0t3uc1gX8D6t6s8.png",
+        "background_image": "",
+        "background_color": "#437e6f",
+        "avg_score": 30,
+        "percentage_complete": 1.4492753623188406,
+        "answered_practices": 3,
+        "total_practices": 207
+      },
+      {
+        "_id": "5ef0576e8943d60d160536c2",
+        "name": "English Language",
+        "icon": "https://mindworkspace.sgp1.digitaloceanspaces.com/default/default/obvoRAbjvuvaCvJ4KhcCz3X1j9mZ2RTHWO7KQxIKPnXPJctR7myQ7UcplyEWGv3O.png",
+        "background_image": "",
+        "background_color": "#f5716b",
+        "avg_score": 58.33333333333333,
+        "percentage_complete": 11.940298507462686,
+        "answered_practices": 8,
+        "total_practices": 67
+      },
+      {
+        "_id": "5ef14de58943d60d16053724",
+        "name": "Bahasa Melayu",
+        "icon": "https://mindworkspace.sgp1.digitaloceanspaces.com/default/default/WTN7P2rSj8w1Hm3ZmrHcJt8jAUI8jBtueB72B2koI5f8Em9JqRINAoxt9SYKagXW.png",
+        "background_image": "",
+        "background_color": "#fda85d",
+        "avg_score": 80,
+        "percentage_complete": 1.4492753623188406,
+        "answered_practices": 1,
+        "total_practices": 69
+      },
+      {
+        "_id": "5ef177208943d60d16053778",
+        "name": "Science",
+        "icon": "https://mindworkspace.sgp1.digitaloceanspaces.com/default/default/kw4GfjR2hjM78jCowyknh3meWUwa3cp0RDHo85WKosDcVs0uXoNbQxwtX6EpVQBV.png",
+        "background_image": "",
+        "background_color": "#7cd85e",
+        "avg_score": 50,
+        "percentage_complete": 1.4492753623188406,
+        "answered_practices": 1,
+        "total_practices": 69
+      }
+    ]
+  }
+}
